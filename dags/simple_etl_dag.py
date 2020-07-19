@@ -14,7 +14,7 @@ default_args = {
     'depends_on_past': True,
     'start_date': datetime(2020, 7, 10, 12),
     # 'end_date': datetime(2020, 7, 5),
-    'email': ['acpr87@gmail.com'],
+    'email': ['example@gmail.com'],
     'email_on_failure': False,
     'email_on_retry': False,
     'retries': 1,
